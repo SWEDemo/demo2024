@@ -17,9 +17,5 @@ pipeline {
                 echo 'Deploying....'
             }
         }
-        post {
-            echo 'jenkins demo job completed!'
-            
-        }
     }
 }
