@@ -19,6 +19,7 @@ pipeline {
         }
         post {
             echo 'jenkins demo job completed!'
+            
         }
     }
 }
